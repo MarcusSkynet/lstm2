@@ -23,9 +23,6 @@ results/lstm2_3_detectability/models/
 *_partial.json
 *_partial_quick.json
 
-# HTML reports (generated, not source)
-results/**/*.html
-
 # Figures (generated from scripts)
 results/**/*.pdf
 results/**/*.png
