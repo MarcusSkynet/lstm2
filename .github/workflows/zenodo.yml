@@ -1,0 +1,16 @@
+name: Zenodo sync
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Zenodo webhook
+        run: |
+          echo "Release published. Zenodo will automatically"
+          echo "create a new version via the GitHub integration."
+          echo "Ensure the Zenodo–GitHub integration is enabled"
+          echo "at https://zenodo.org/account/settings/github/"

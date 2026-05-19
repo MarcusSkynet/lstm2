@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# PyTorch model weights (too large for GitHub)
+*.pt
+*.pth
+results/lstm2_3_detectability/models/
+**/models/
+
+# Partial/resume files (intermediate, not final results)
+*_partial.json
+*_partial_quick.json
+
+# HTML reports (generated, not source)
+results/**/*.html
+
+# Figures (generated from scripts)
+results/**/*.pdf
+results/**/*.png
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

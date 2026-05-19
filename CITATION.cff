@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Hubka
+    given-names: Marek
+    orcid: 0009-0003-2476-9017
+title: "Reproducible Syndrome Algebra Experiments on a Controlled LSTM Architecture"
+version: 1.0.0
+date-released: "2026-05-11"
+url: "https://github.com/MarcusSkynet/lstm2"
+doi: "PLACEHOLDER"
+license: MIT
+repository-code: "https://github.com/MarcusSkynet/lstm2"
+abstract: >
+  Experimental validation of the syndrome algebra framework for
+  three measurable failure modes in large language models. The
+  lstm2 series tests seven predictions of the GAIA framework
+  on a controlled synthetic LSTM architecture across k=1..10
+  domains, 6 seeds, and multiple architectural configurations.
+references:
+  - type: article
+    authors:
+      - family-names: Hubka
+        given-names: Marek
+    title: >
+      Three Measurable Failure Modes of Large Language Models
+    year: 2026
+    doi: "10.5281/zenodo.20127318"
+  - type: article
+    authors:
+      - family-names: Hubka
+        given-names: Marek
+    title: "A Syndrome Algebra for Differentiable Parametric Systems"
+    year: 2026
+    doi: "10.5281/zenodo.20127537"
