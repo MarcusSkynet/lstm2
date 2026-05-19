@@ -3,8 +3,7 @@
 Experimental validation of the syndrome algebra framework for three
 measurable failure modes in large language models.
 
-This repository contains the code, results, and educational materials
-for the lstm2 series accompanying:
+This repository contains the code and results for the lstm2 series accompanying:
 
 
 > **Three Measurable Failure Modes of Large Language Models**  
@@ -13,6 +12,7 @@ for the lstm2 series accompanying:
 > **A Syndrome Algebra for Differentiable Parametric Systems**  
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20127537.svg)](https://doi.org/10.5281/zenodo.20127537)
 
+available in `papers/`.
 
 ---
 
