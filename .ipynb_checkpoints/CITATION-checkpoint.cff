@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Hubka
+    given-names: Marek
+    orcid: "PLACEHOLDER"
+title: "GAIA lstm2 Experimental Series"
+version: 1.0.0
+date-released: "2026-05-11"
+url: "https://github.com/[USERNAME]/gaia-lstm2"
+doi: "PLACEHOLDER"
+license: MIT
+repository-code: "https://github.com/[USERNAME]/gaia-lstm2"
+abstract: >
+  Experimental validation of the syndrome algebra framework for
+  three measurable failure modes in large language models. The
+  lstm2 series tests seven predictions of the GAIA framework
+  on a controlled synthetic LSTM architecture across k=1..10
+  domains, 6 seeds, and multiple architectural configurations.
+references:
+  - type: article
+    authors:
+      - family-names: Hubka
+        given-names: Marek
+    title: >
+      Three Measurable Failure Modes of Large Language Models:
+      Structure of the Error Distribution in Autoregressive
+      Stochastic Models
+    year: 2026
+    doi: "PLACEHOLDER"
+  - type: article
+    authors:
+      - family-names: Hubka
+        given-names: Marek
+    title: "A Syndrome Algebra for Differentiable Parametric Systems"
+    year: 2026
+    doi: "PLACEHOLDER"
